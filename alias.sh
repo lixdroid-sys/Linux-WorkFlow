@@ -25,7 +25,7 @@ alias rm='sudo apt remove -y'  # Remove packages
 alias search='apt search'  # Search for packages
 
 # System Information
-alias neo='neofetch'  # Display system info
+alias neo='command -v neofetch >/dev/null 2>&1 && neofetch || echo "neofetch is not installed"'  # Display system info
 alias ff='fastfetch' # Display system info with fastfetch
 alias sysinfo='inxi -F'  # Display detailed system information
 alias diskusage='df -h'  # Check disk usage

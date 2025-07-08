@@ -1,5 +1,5 @@
 #!/bin/bash
-ALIAS_URL="https://raw.githubusercontent.com/lixdroid-sys/Gnome-WorkFlow/main/alias.sh"
+ALIAS_URL="https://raw.githubusercontent.com/lixdroid-sys/Linux-WorkFlow/main/alias.sh"
 
 # Pick shell
 TARGET="$HOME/.bashrc"

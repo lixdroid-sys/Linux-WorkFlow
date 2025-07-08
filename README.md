@@ -6,13 +6,13 @@ A collection of useful terminal aliases for power management, system updates, an
 
 1. For Bash Users:
    ```sh
-   curl -sSL https://raw.githubusercontent.com/lixdroid-sys/Gnome-WorkFlow/main/alias.sh >> ~/.bashrc && source ~/.bashrc
+   curl -sSL https://raw.githubusercontent.com/lixdroid-sys/Linux-WorkFlow/main/alias.sh >> ~/.bashrc && source ~/.bashrc
 
    ```
 
 2. For ZSH Users:
    ```sh
-   curl -sSL https://raw.githubusercontent.com/lixdroid-sys/Gnome-WorkFlow/main/alias.sh >> ~/.zshrc && source ~/.zshrc
+   curl -sSL https://raw.githubusercontent.com/lixdroid-sys/Linux-WorkFlow/main/alias.sh >> ~/.zshrc && source ~/.zshrc
 
    ```
 
