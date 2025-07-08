@@ -1,4 +1,4 @@
-# 🚀 GNOME-WORKFLOW
+# 🚀 LINUX-WORKFLOW
 
 A collection of useful terminal aliases for power management, system updates, and system information. ⚡
 
