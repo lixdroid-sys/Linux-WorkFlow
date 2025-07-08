@@ -18,7 +18,7 @@ A collection of useful terminal aliases for power management, system updates, an
 
 ## 📁 Repo Layout: 
 ```sh
-Gnome-WorkFlow/
+Linux-WorkFlow/
 ├── alias.sh      
 ├── setup.sh              
 ├── README.md               
